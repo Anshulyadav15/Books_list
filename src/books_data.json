@@ -1,0 +1,86 @@
+[
+  {
+    "id": 0,
+    "name": "Spare",
+    "author": "Prince Harry The Duke of Sussex",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/91Szm8FpdfL._AC_UL600_SR600,400_.jpg",
+    "price": "$19.99"
+  },
+  {
+    "id": 1,
+    "name": "Atomic Habits",
+    "author": "James Clear",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81bGKUa1e0L._AC_UL600_SR600,400_.jpg",
+    "price": "$14.89"
+  },
+  {
+    "id": 2,
+    "name": "It Ends with Us: A Novel (1)",
+    "author": "Colleen Hoover",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81s0B6NYXML._AC_UL600_SR600,400_.jpg",
+    "price": "$9.95"
+  },
+  {
+    "id": 4,
+    "name": "It Starts with Us: A Novel (2) (It Ends with Us)",
+    "author": "Colleen Hoover",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71PNGYHykrL._AC_UL600_SR600,400_.jpg",
+    "price": "$10.58"
+  },
+  {
+    "id": 5,
+    "name": "Lessons in Chemistry: A Novel",
+    "author": "Bonnie Garmus",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71yNgTMEcpL._AC_UL600_SR600,400_.jpg",
+    "price": "$17.99"
+  },
+  {
+    "id": 6,
+    "name": "Dog Man: Twenty Thousand Fleas Under the Sea",
+    "author": "James Clear",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81fyoFoaxlL._AC_UL600_SR600,400_.jpg",
+    "price": "$9.49"
+  },
+  {
+    "id": 7,
+    "name": "The 48 Laws of Power",
+    "author": "Robert Greene",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL._AC_UL600_SR600,400_.jpg",
+    "price": "$13.86"
+  },
+  {
+    "id": 8,
+    "name": "The Body Keeps the Score",
+    "author": "Bessel van der Kolk M.D.",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71bVExi4yXL._AC_UL600_SR600,400_.jpg",
+    "price": "$11.40"
+  },
+  {
+    "id": 9,
+    "name": "Verity",
+    "author": "Colleen Hoover",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41ZLnc34EiL._AC_UL600_SR600,400_.jpg",
+    "price": "$10.49"
+  },
+  {
+    "id": 10,
+    "name": "The Creative Act: A Way of Being",
+    "author": "Rick Rubin",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/A1YhM3oRFbL._AC_UL600_SR600,400_.jpg",
+    "price": "$19.82"
+  },
+  {
+    "id": 11,
+    "name": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71ZvnK+4JiL._AC_UL600_SR600,400_.jpg",
+    "price": "$9.42"
+  },
+  {
+    "id": 12,
+    "name": "Daisy Jones & The Six: A Novel",
+    "author": "Taylor Jenkins Reid",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81a4bSDHqUL._AC_UL600_SR600,400_.jpg",
+    "price": "$9.99"
+  }
+]
